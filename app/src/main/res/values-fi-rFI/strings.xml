@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Mitä tehdä</string>
+        <string name="textview">Teksti</string>
+        <string name="tomorrow">Huomenna</string>
+        <string name="nav_home">Koti</string>
+        <string name="nav_calendar">Kalenteri</string>
+        <string name="nav_settings">Asetukset</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="settings">Asetukset</string>
+        <string name="home">Koti</string>
+        <string name="Today">TextView</string>
+        <string name="today">Tänään</string>
+        <string name="things_to_do">Mitä pitää tehdä</string>
+        <string name="title_activity_main2">Main2Activity</string>
+        <string name="button_done">Tehty</string>
+        <string name="done">Tehty</string>
+        <string name="action_add_task">Lisää</string>
+
+</resources>

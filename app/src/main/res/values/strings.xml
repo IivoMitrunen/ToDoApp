@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="textview">TextView</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">calendar</string>
+    <string name="nav_settings">settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="Today">TextView</string>
+    <string name="today">today</string>
+    <string name="things_to_do">Things_to_do</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="button_done">button_done</string>
+    <string name="done">done</string>
+    <string name="action_add_task">add</string>
+</resources>
